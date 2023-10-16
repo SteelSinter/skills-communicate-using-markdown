@@ -7,3 +7,7 @@ public static void dog(String r) {
   }
 }
 ```
+- [x] Meet someone
+- [x] I am cheesed to meet them
+- [x] The authorites can't find enough evidence to make the charges stick
+- [ ] The case goes cold
